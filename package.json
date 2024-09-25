@@ -1,0 +1,16 @@
+{
+  "name": "ryba-forum",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.13.0",
+    "redis": "^4.7.0"
+  }
+}
